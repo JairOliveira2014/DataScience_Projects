@@ -12,8 +12,9 @@ Aqui você encontra os notebooks dos meus estudos em Data Science e Machine Lear
 
 Lista de projetos em Jupyter Notebook:
 
-* **Iniciando em *Machine Learning* com a Competição do Titanic:** [Notebook do Titanic](https://github.com/JairOliveira2014/My_data_science/tree/master/Titanic)
+* **Iniciando em *Machine Learning* com a Competição do Titanic:** [Notebook](https://github.com/JairOliveira2014/My_data_science/tree/master/Titanic)
 
+* **Aprimorando o Modelo de Machine Learning:** [Notebook](https://github.com/JairOliveira2014/My_data_science/blob/master/Improving_model_titanic/Improving_model_titanic.ipynb)
 
 ## Sobre mim:
 
