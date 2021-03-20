@@ -18,5 +18,6 @@ Lista de projetos em Jupyter Notebook:
 
 ## Sobre mim:
 
-* Graduação em Engenharia Elétrica.
-* Especialização em Engenharia de Manutenção Industrial.
+* Graduação em Engenharia Elétrica;
+* Especialização em Engenharia de Manutenção Industrial;
+* Cursando Pós-graduação em Data Science & Business Analytics
