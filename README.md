@@ -12,9 +12,11 @@ Aqui você encontra os notebooks dos meus estudos em Data Science e Machine Lear
 
 Lista de projetos em Jupyter Notebook:
 
-* **Iniciando em *Machine Learning* com a Competição do Titanic:** [Notebook](https://github.com/JairOliveira2014/My_data_science/tree/master/Titanic)
+* [**Iniciando em *Machine Learning* com a Competição do Titanic:**](https://github.com/JairOliveira2014/My_data_science/tree/master/Titanic)
+  Neste projeto abordei o passo a passo em um projeto de *Machine Learning*, passando pelas etapas de definição do problema, análise exploratória, tratamento dos dados, criação e avaliação do modelo e por fim, criei um *App* que fornece uma interface para previsão de sobrevivência atráves do nosso modelo treinado, caso tenha curiosidade o código está disponível [aqui](https://github.com/JairOliveira2014/My_data_science/blob/master/Titanic/App_titanic.py) e você pode acessar o *deploy* no *heroku* e fazer seu teste de "sorte" [aqui](https://app-titanic.herokuapp.com/).
 
-* **Aprimorando o Modelo de Machine Learning:** [Notebook](https://github.com/JairOliveira2014/My_data_science/blob/master/Improving_model_titanic/Improving_model_titanic.ipynb)
+* [**Aprimorando o Modelo de Machine Learning:**](https://github.com/JairOliveira2014/My_data_science/blob/master/Improving_model_titanic/Improving_model_titanic.ipynb)
+   Neste projeto utilizei técnicas de *features engineering* (como discretização) para melhorar o tratamento e modelagem dos dados, e apliquei validação cruzada em específico utilizando o método *K-fold*, também utilizei *Random Search* e Otimização Bayesiana para ajustar os hiperparâmetros do modelo de regressão que definimos no teste de validação.
 
 ## Sobre mim:
 
